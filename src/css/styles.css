@@ -1,0 +1,13 @@
+@import url(./reset.css);
+
+:root {
+    --fonte-principal: "Outfit";
+}
+
+body {
+    font-family: var(--fonte-principal);
+    background-image: url('../imagens/fundo-base.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
